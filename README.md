@@ -1,4 +1,6 @@
 auto-expanding-uitextview
 =========================
 
-This is a demo showing how to auto expand a UITextView. While typing, it will auto expand the size of the UITextView.
+This is a demo showing a UITextView that auto expands when typing.
+
+Blog Post: http://stevenbooks.com/2013/03/02/auto-expanding-uitextview/
